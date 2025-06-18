@@ -39,9 +39,11 @@ Subset to 68 teams in 2025 postseason
 
 Focused on 6 key variables:
 
-r
+```r
 c("Seed", "Raw.Offensive.Efficiency", "Raw.Defensive.Efficiency", 
   "AvgHeight", "Experience", "Net.Rating")
+```
+
 Scaled/normalized data for clustering
 
 ## 2. Unsupervised Learning
